@@ -12,11 +12,11 @@ import 'package:worldline_pg/worldline_pg.dart';
 
 import 'package:http/http.dart' as http;
 
-const String ENC_KEY = '91eae7c51d0408d6d9f8e86e71c27a58';
+const String ENC_KEY = 'abcdefghiklgmno01234567';
 const String FORM_ACTION_URL = "https://ipg.in.worldline.com/doMEPayRequest";
 const String GET_TRANS_STATUS =
     "https://ipg.in.worldline.com/getTransactionStatus";
-const String MID = 'WL0000000033755';
+const String MID = 'WL000000000000';
 
 void main() {
   runApp(const MyApp());
