@@ -1,5 +1,5 @@
 name: worldline_pg
-description: This Flutter Plugin provides a seamless bridge between your Flutter application and the native code provided by the Worldline Payment Gateway. With this plugin, you can easily integrate Worldline's payment processing capabilities into your Flutter app, enabling secure and reliable payment transactions.
+description: This Flutter Plugin provides a seamless bridge between your Flutter application and the native code provided by the Worldline Payment Gateway.
 version: 0.0.1
 homepage: https://github.com/devalfaz/worldline_pg
 repository: https://github.com/devalfaz/worldline_pg
